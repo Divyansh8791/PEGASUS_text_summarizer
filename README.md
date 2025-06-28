@@ -61,8 +61,8 @@ Deployed on **Hugging Face Spaces**
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/pegasus-gemini-summarizer.git
-cd pegasus-gemini-summarizer
+git clone https://github.com/Divyansh8791/PEGASUS_text_summarizer.git
+cd PEGASUS_text_summarizer
 ```
 ## Install dependencies
 ```bash
