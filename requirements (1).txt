@@ -1,0 +1,21 @@
+# Core dependencies
+pydantic==1.10.13
+gradio==3.50.2
+fastapi==0.95.2
+torch
+
+# Transformers and tokenizer
+transformers
+sentencepiece
+
+# LangChain with Gemini
+langchain-google-genai
+langchain
+
+# Evaluation & metrics
+evaluate
+rouge_score
+
+# File handling for PDF, DOCX
+pymupdf
+python-docx
