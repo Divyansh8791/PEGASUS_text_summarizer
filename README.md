@@ -35,7 +35,6 @@ It offers a user-friendly Gradio interface for uploading documents or pasting te
 
 Deployed on **Hugging Face Spaces**  
 🔗 [Live Demo](https://huggingface.co/spaces/Divyansh-87/PEGASUS_Summarizer)  
-*(Replace with actual URL once deployed)*
 
 ---
 
